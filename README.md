@@ -1,3 +1,4 @@
 # slotmachine_bash
  ## Beginner Project
-This project goes over how to simulate a slot machine using bash script.
+This project was created to help anyone starting out with bach scripting. The example in this project is creating a slow machine with user input. 
+
